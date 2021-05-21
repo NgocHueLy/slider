@@ -1,4 +1,4 @@
-This project for practice javascript loop by building a background slider, using:
+This project for practice javascript loop by building a background slider, that auto change background image, using:
 - HTML
 - CSS
 - Javascript
